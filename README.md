@@ -57,3 +57,7 @@ Bu proje, yeni kullanıcı ekleyebiir, silebilir, güncelleyebilir ayrıca müş
 - **Veritabanı Adı: proje**
 
 - **Tablo Adı: admin_paneli**
+
+
+https://github.com/Deryaglmz/PHP_admin_paneli/assets/129391768/03db9e34-b92a-496c-97ba-148544aa20a4
+
